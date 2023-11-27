@@ -4,6 +4,8 @@ import java.awt.*;
 public class GameBoard extends JPanel {
 
     private boolean showPacman;
+    int PacmanX = Pacman.getX();
+    int PacmanY = Pacman.getY();
 
 
     public GameBoard() {
