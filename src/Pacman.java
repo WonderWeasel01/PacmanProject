@@ -5,9 +5,9 @@ public class Pacman {
     private int PACMAN_WIDTH;
     private int PACMAN_HEIGHT;
 
-    private int x;
+    private int pacmanX;
 
-    private int y;
+    private int pacmanY;
 
     private int counter;
 
